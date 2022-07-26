@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhoWillPay</string>
+    <string name="empty_value">Person name should be here</string>
+</resources>
